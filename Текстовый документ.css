@@ -1,0 +1,4 @@
+p, li, h1, h2 {color: red; font-family: 'Roboto', sans-serif;}
+h2 {color: rgb(51, 0, 255); font-family: 'Fasthand', cursive;}
+html {background-color: blueviolet;}
+body {background-color: blue; width: 600px; height: auto; margin: 0 auto; padding: 0px 20px 20px 20px; border: 2px solid white ; font-size:
